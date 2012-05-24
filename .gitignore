@@ -1,0 +1,11 @@
+*.pyc
+*.sublime-*
+*.project
+*.pydevproject
+.codeintel/
+.settings/
+dist/
+MANIFEST
+._*
+.DS_Store
+*.egg-info
